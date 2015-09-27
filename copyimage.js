@@ -8,6 +8,11 @@ var path = require('path'),
         /bmp$/
     ];
 
+/*
+git remote add origin https://github.com/hollowdoor/dom_copy_image.git
+git push -u origin master
+*/
+
 module.exports = function(file, dest, options){
 
     if(typeof dest !== 'string' && typeof options === 'undefined'){
