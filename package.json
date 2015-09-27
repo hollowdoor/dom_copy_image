@@ -1,0 +1,23 @@
+{
+  "name": "dom-copy-image",
+  "version": "1.0.0",
+  "description": "Copy an image file in a DOM environment",
+  "main": "copyimage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "copy",
+    "image",
+    "canvas",
+    "dom"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-to-buffer": "^1.0.6"
+  }
+}
