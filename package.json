@@ -17,7 +17,9 @@
   ],
   "author": "Quentin Engles <hollowdoor99@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "canvas-to-buffer": "^1.0.6"
+  "dependencies": {},
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/hollowdoor/dom_copy_image.git"
   }
 }
